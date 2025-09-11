@@ -68,7 +68,7 @@ flowchart TD
      D3:::module
      C4:::module
      F2:::module
-    classDef module fill:#f9f,stroke:#333,stroke-width:1px
+    classDef module fill:#999,stroke:#333,stroke-width:1px
 ```
 ---
 ## 3. Estrategia de Prompts e Iteraciones
